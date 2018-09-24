@@ -1,2 +1,2 @@
-WarZombie \n
-test \n
+WarZombie
+test
